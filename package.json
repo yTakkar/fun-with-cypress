@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "cypress": "^3.3.2"
+  },
+  "name": "cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:record": "cypress run --record"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
